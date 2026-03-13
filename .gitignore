@@ -14,7 +14,6 @@ desktop.ini
 
 # 测试输出目录
 test/
-examples/
 *.log
 
 # Python 缓存（如果有脚本）
