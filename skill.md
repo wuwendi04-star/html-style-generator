@@ -1,3 +1,8 @@
+---
+name: html-style-generator
+description: 批量生成多页面 HTML 原型，支持 10 种设计风格的产品经理快速原型生成工具
+---
+
 # HTML Prototype Style Generator
 
 ## 功能描述
